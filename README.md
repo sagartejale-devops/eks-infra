@@ -13,3 +13,4 @@
 ## folder structure
 
 ## learning notes
+Learning Git with ChatGPT
