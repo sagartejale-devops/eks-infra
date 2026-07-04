@@ -10,3 +10,4 @@ Configured AWS CLI
 
 Created GitHub Repository
 
+I am adding this file for learning purpose

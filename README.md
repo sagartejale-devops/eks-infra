@@ -14,3 +14,5 @@
 
 ## learning notes
 Learning Git with ChatGPT
+
+This is my second comment for learning purpose
