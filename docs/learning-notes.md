@@ -10,5 +10,6 @@ Configured AWS CLI
 
 Created GitHub Repository
 
-I am adding this file for learning purpose
-This is my second comment for learning purpose
+Day 2
+
+I practised more on git commands and made hands on git structure and flow of it.
